@@ -1,21 +1,4 @@
 {
   "soporte": "8112680566",
-  "avisos": [
-    {
-      "id": "aviso-20261027-1720",
-      "estilo": "promocion",
-      "etiqueta": "Promoción Especial",
-      "titulo": "Crema Suavecito Halloween 🎃",
-      "texto": "2 x 1 Cremas Suavecito",
-      "imagen": "https://raw.githubusercontent.com/FilloApp/avisos/main/9090.webp",
-      "imagenModo": "lado",
-      "botones": [
-        {
-          "texto": "Escribir a mi asesor",
-          "tipo": "enlace",
-          "url": "https://suavecito.com/"
-        }
-      ]
-    }
-  ]
+  "avisos": []
 }
