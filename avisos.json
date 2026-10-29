@@ -1,4 +1,25 @@
 {
   "soporte": "8112680566",
-  "avisos": []
+  "avisos": [{
+  "soporte": "8112680566",
+  "avisos": [
+    {
+      "id": "aviso-20261028-1815",
+      "estilo": "normal",
+      "etiqueta": "Promoción Especial para Ti",
+      "titulo": "Cera Gel Mayoreo para Tu Barbería",
+      "texto": "Compra 10 Botes de Gel y ahorra un 45%",
+      "imagen": "https://raw.githubusercontent.com/FilloApp/avisos/main/cera.webp",
+      "imagenModo": "lado",
+      "botones": [
+        {
+          "texto": "Las Quiero!",
+          "tipo": "whatsapp",
+          "whatsapp": "8135700142",
+          "mensaje": "Hola, vi el aviso de los Geles y me Interesa"
+        }
+      ]
+    }
+  ]
+}]
 }
