@@ -2,19 +2,18 @@
   "soporte": "8112680566",
   "avisos": [
     {
-      "id": "aviso-20261028-1815",
+      "id": "aviso-20261029-2135",
       "estilo": "normal",
-      "etiqueta": "Promoción Especial para Ti",
-      "titulo": "Cera Gel Mayoreo para Tu Barbería",
-      "texto": "Compra 10 Botes de Gel y ahorra un 45%",
-      "imagen": "https://raw.githubusercontent.com/FilloApp/avisos/main/cera.webp",
+      "etiqueta": "Aviso de tu proveedor",
+      "titulo": "Promoción Especial Papel Cuello 💈",
+      "texto": "40% de Descuento!!",
+      "imagen": "https://raw.githubusercontent.com/FilloApp/avisos/main/69.webp",
       "imagenModo": "lado",
       "botones": [
         {
-          "texto": "Las Quiero!",
-          "tipo": "whatsapp",
-          "whatsapp": "8135700142",
-          "mensaje": "Hola, vi el aviso de los Geles y me Interesa"
+          "texto": "LO QUIERO!!",
+          "tipo": "enlace",
+          "url": "https://meli.la/1DLTAJs"
         }
       ]
     }
